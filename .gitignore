@@ -1,0 +1,10 @@
+.runtime/
+__pycache__/
+entrada/
+resultados/
+processadas/
+processados/
+saida/
+reports/
+screens/
+*.log

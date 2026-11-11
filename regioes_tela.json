@@ -1,0 +1,12 @@
+{
+  "largura_referencia": 1024,
+  "altura_referencia": 799,
+  "regioes": {
+    "artigo": [482, 91, 135, 15],
+    "pedido": [483, 123, 134, 15],
+    "periodo": [818, 82, 188, 34],
+    "turno": [818, 82, 188, 34],
+    "rendimento_percentual": [141, 231, 285, 20],
+    "producao_kg": [337, 443, 89, 21]
+  }
+}
